@@ -21,7 +21,6 @@ yalc.lock
 .npm
 
 # Build files
-build
 
 # OS hidden files
 .DS_Store

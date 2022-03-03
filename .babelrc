@@ -1,4 +1,4 @@
 {
-  "presets": [["@babel/env", { "targets": { "node": "current" } }], "@babel/typescript"],
+  "presets": [["@babel/env", { "targets": { "node": "12.22.1" } }], "@babel/typescript"],
   "plugins": []
 }
